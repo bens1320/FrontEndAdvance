@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed318c73-cbc0-4b4b-adb4-01f603cb69c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HandWriteDeepCopy" beforeDir="false" afterPath="$PROJECT_DIR$/../HandWriteDeepCopy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HandWriteEventHub" beforeDir="false" afterPath="$PROJECT_DIR$/../HandWriteEventHub" afterDir="false" />
     </list>
@@ -62,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617650886330</updated>
-      <workItem from="1617650887373" duration="3143000" />
+      <workItem from="1617650887373" duration="3468000" />
     </task>
     <servers />
   </component>
